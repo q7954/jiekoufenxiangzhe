@@ -39,7 +39,17 @@
             "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/好趣.js"
         },
    {"key":"py_直播平台","name":"💖分享平台","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/直播平台.py","searchable":1,"quickSearch":0,"filterable":0,"changeable":0},
-	
+
+	 {
+            "key": "kktd",
+            "name": "💝分享糖豆",
+            "type": 1,
+            "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
 	{
       "key": "t4直播转点播",
       "name": "💝分享教育",
@@ -80,6 +90,126 @@
 			"filterable": 0,
 			"timeout": 60},
 
+	 {
+            "key": "奇奇1",
+            "name": "💝分享奇奇",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/奇奇.js",
+            "searchable": 1,
+            "ext": {
+                "host": "http://110.42.67.221:8003/",
+                "key": "123456789abcdefg",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            },
+            "categories": [
+                "电视剧",
+                "综艺",
+                "短剧",
+                "动漫",
+                "少儿",
+                "学习"
+            ]
+        },
+         {
+            "key": "布布",
+            "name": "💝分享布布",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/布布.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "全+网",
+            "name": "💝分享全网",
+            "type": 1,
+            "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "playUrl": "json:http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url=",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "金蝉1",
+            "name": "💝分享金蝉",
+            "type": 1,
+            "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+            "searchable": 1,
+            "playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url=",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+{
+            "key": "69解析1",
+            "name": "💝分享6 9",
+            "type": 1,
+            "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+            "searchable": 1,
+            "playUrl": "json:https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url=",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        
+{
+            "key": "drpyS_集百动漫[漫]",
+            "name": "💝分享集百",
+            "type": 4,
+            "api": "http://115.191.55.109:9097/api/集百动漫[漫]?pwd=50721480be241243",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "title": "集百动漫[漫]",
+            "author": "EylinSir",
+            "类型": "影视",
+            "lang": "ds",
+            "ext": ""
+        },
+{
+            "key": "咕噜画",
+            "name": "💝分享咕噜",
+            "type": 3,
+            "changeable": 0,
+            "api": "https://17264.kstore.space/Appfox.min.js",
+            "ext": {
+                "host": "http://www.yingsw.top",
+                "timeout": 8,
+                "key": "guluyinghua_123",
+                "sign": "679543610991810f19698c187e5e106e"
+            }
+        },
+{
+            "key": "drpyS_瓜子[优]",
+            "name": "💝分享瓜瓜",
+            "type": 4,
+            "api": "http://115.191.55.109:9097/api/瓜子[优]?pwd=50721480be241243",
+            "searchable": 2,
+            "filterable": 1,
+            "quickSearch": 0,
+            "title": "瓜子[优]",
+            "author": "EylinSir",
+            "类型": "影视",
+            "logo": "https://guaziyingshi.xxsnav.com/files/guaziyingshi.png",
+            "lang": "ds",
+            "ext": ""
+        },
+        {
+            "key": "789",
+            "name": "💝分享789",
+            "type": 1,
+            "api": "https://www.caiji.cyou/api.php/provide/vod",
+            "searchable": 1,
+            "playUrl": "json:https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url=",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
 	{
       "key": "py_jieyingshi",
       "name": "💖分享界影",
