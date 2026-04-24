@@ -129,7 +129,7 @@
             "type": 1,
             "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
-            "playUrl": "json:http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url=",
+            "playUrl": "json:https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url=",
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 0
@@ -1367,7 +1367,7 @@
 {
       "name": "💝分享者4K3",
       "type": 1,
-      "url": "http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url="
+      "url": "json:https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
     },
 	{
             "name": "💝分享者解析-",
