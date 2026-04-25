@@ -1386,7 +1386,7 @@
             "searchable": 0,
             "filterable": 0,
             "changeable": 0
-        },{"key":"push_agent","name":"📓海阔推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"hide":1,"ext":"0068144bf4d24f3284819c15f3a49482","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt"}],
+        }],
 
 //解析接口
 
@@ -1397,26 +1397,7 @@
       "url": "Sequence"
     },
 
-	{
-            "name": "💝分享者推荐",
-            "type": 1,
-            "url": "http://shenmijex.vip.cpolar.cn/公开/取经师徒.php?url="
-        },
-        {
-            "name": "💝分享者4K1",
-            "type": 1,
-            "url": "http://shenmijex.vip.cpolar.cn/公开/九齿钉耙.php?url="
-        },
-        {
-            "name": "💝分享者4K2",
-            "type": 1,
-            "url": "http://shenmijex.vip.cpolar.cn/公开/定海神针.php?url="
-        },
-{
-      "name": "💝分享者4K3",
-      "type": 1,
-      "url": "json:https://json.cfysoft.cc/api/?key=6294df9ba1f2c6da489bd78fdd9f6d46&url="
-    },
+	
 	{
             "name": "💝分享者解析-",
             "type": 0,
