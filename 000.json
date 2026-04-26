@@ -232,6 +232,39 @@
             "quickSearch": 1,
             "filterable": 0
         },
+	 {
+      "key": "建安解析",
+      "name": "💝分享建安",
+      "type": 1,
+      "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url="
+    },   
+
+{
+            "key": "HB海纳",
+            "name": "💝分享海纳",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "",
+            "ext": "http://103.45.162.207:25252/仅供测试/lib/海纳影视.json"
+        },
+        {
+            "key": "MO尘-drpyS_飞牛影视",
+            "name": "💝分享一起",
+            "type": 4,
+            "api": "http://115.191.55.109:9097/api/飞牛影视?pwd=50721480be241243",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "title": "飞牛影视",
+            "author": "EylinSir",
+            "类型": "影视",
+            "lang": "ds",
+            "ext": ""
+        },
 	{
       "key": "py_jieyingshi",
       "name": "💖分享界影",
