@@ -68,6 +68,29 @@
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,   "filterable": 0},  
+
+	{
+            "key": "快映",
+            "name": "💝分享快映",
+            "type": 3,
+            "changeable": 0,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/快映.js",
+            "ext": {
+                "host": "https://www.baidukuaiy.top",
+                "ver": 3
+            }
+        },
+        {
+            "key": "789",
+            "name": "💝分享酒吧",
+            "type": 1,
+            "api": "https://www.caiji.cyou/api.php/provide/vod",
+            "searchable": 1,
+            "playUrl": "json:https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url=",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
        {
 			"key": "人人影视",
 			"name": "💝分享人人",
@@ -221,17 +244,7 @@
                 "sign": "679543610991810f19698c187e5e106e"
             }
         },
-        {
-            "key": "789",
-            "name": "💝分享789",
-            "type": 1,
-            "api": "https://www.caiji.cyou/api.php/provide/vod",
-            "searchable": 1,
-            "playUrl": "json:https://json.cfysoft.cc/api/?key=5249e5bb3cb34032040224799dae6d45&url=",
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+
 	 {
       "key": "建安解析",
       "name": "💝分享建安",
